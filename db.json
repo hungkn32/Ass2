@@ -1,0 +1,14 @@
+{
+    "DanhSach":[
+        {"id":"8jd3","ten":"Iphone 12","Hãng":"Apple","giaTien":"9200","Ram":"2GB","BoNho":"128gb","img":"https://vnn-imgs-f.vgcloud.vn/2019/09/11/05/hinh-anh-va-trai-nghiem-dau-tien-ve-iphone-11-11-pro-va-pro-max-1.jpg"},
+        {"id":"8jd2","ten":"SS S23 Utral","Hãng":"SamSung","giaTien":"9200","Ram":"8GB","BoNho":"512gb","img":"https://genk.mediacdn.vn/139269124445442048/2023/4/24/sm-a245galaxy-a24-lteblackfront-1682306750152715458128-1682323395252-1682323396071636034669.jpg"},
+        {"id":"8jd4","ten":"Iphone 14","Hãng":"Apple","giaTien":"9200","Ram":"2GB","BoNho":"128gb","img":"https://macone.vn/wp-content/uploads/2021/12/269902633_648553806568650_2291142193696422643_n-1024x1024.jpeg"},
+        {"id":"8jd5","ten":"Iphone 15","Hãng":"Apple","giaTien":"9200","Ram":"4GB","BoNho":"128gb","img":"https://didongviet.vn/dchannel/wp-content/uploads/2023/09/5-hinh-anh-iphone-15-pro-max-didongviet.jpg"}
+    ],
+    "DanhSachHot":[
+        {"id":"8ji8","ten":"Iphone 15","Hãng":"Apple","giaTien":"3900","Ram":"8GG","BoNho":"128GB","img":"https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694546936133_thumb_iphone_15_pro_trang_didongviet.png"},
+        {"id":"8ji8","ten":"Iphone 15 Pro","Hãng":"Apple","giaTien":"3900","Ram":"8GG","BoNho":"128GB","img":"https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694546936133_thumb_iphone_15_pro_trang_didongviet.png"},
+        {"id":"8ji8","ten":"Iphone 15 Pro Max","Hãng":"Apple","giaTien":"3900","Ram":"8GG","BoNho":"128GB","img":"https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694546936133_thumb_iphone_15_pro_trang_didongviet.png"},
+        {"id":"8ji8","ten":"Iphone 15 mini","Hãng":"Apple","giaTien":"3900","Ram":"8GG","BoNho":"128GB","img":"https://cdn-v2.didongviet.vn/files/products/2023/8/13/1/1694546936133_thumb_iphone_15_pro_trang_didongviet.png"}
+    ]
+}
